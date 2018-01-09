@@ -12,6 +12,7 @@ workbench.xmi
 out/
 tmp/
 .settings/
+.vscode/
 .loadpath
 .project
 /.idea
